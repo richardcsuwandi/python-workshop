@@ -1,6 +1,6 @@
 # Coding 101: Getting Started with Python
 
-Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cloud milik Google. Silahkan klik tombol **Open in Colab** dibawah ini untuk mengakses notebook yang akan digunakan untuk workshop ini:
+Untuk workshop kali ini, kita akan menggunakan Colab, yaitu notebook berbasis cloud milik Google. Silahkan klik tombol **Open in Colab** dibawah ini untuk mengakses notebook yang akan digunakan selama workshop ini:
 
 - Notebook tanpa jawaban: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/richardcsuwandi/python-workshop/blob/main/template_python.ipynb)
 
